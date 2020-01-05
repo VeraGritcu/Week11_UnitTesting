@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week11_UnitTesting", "Week11_UnitTesting.csproj", "{71D768BA-F830-468E-B563-5285E8EDEB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "..\UnitTests\UnitTests.csproj", "{AB5005CC-67E9-4308-8141-096DA4E07856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "..\Calculator\Calculator.csproj", "{5F44A737-7207-4F9E-A72D-C99661C52968}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTests", "..\CalculatorTests\CalculatorTests.csproj", "{2CBD55AD-B565-49F8-9789-0A25A6C51D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoatLatin", "..\GoatLatin\GoatLatin.csproj", "{07AD9978-F2DA-4464-A6BA-00BF7C89A46D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestGoatLatin", "..\UnitTestGoatLatin\UnitTestGoatLatin.csproj", "{5493543B-5738-4A4E-B4BE-9580256A662C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D768BA-F830-468E-B563-5285E8EDEB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D768BA-F830-468E-B563-5285E8EDEB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D768BA-F830-468E-B563-5285E8EDEB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D768BA-F830-468E-B563-5285E8EDEB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB5005CC-67E9-4308-8141-096DA4E07856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB5005CC-67E9-4308-8141-096DA4E07856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB5005CC-67E9-4308-8141-096DA4E07856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB5005CC-67E9-4308-8141-096DA4E07856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F44A737-7207-4F9E-A72D-C99661C52968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F44A737-7207-4F9E-A72D-C99661C52968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F44A737-7207-4F9E-A72D-C99661C52968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F44A737-7207-4F9E-A72D-C99661C52968}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBD55AD-B565-49F8-9789-0A25A6C51D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBD55AD-B565-49F8-9789-0A25A6C51D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBD55AD-B565-49F8-9789-0A25A6C51D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBD55AD-B565-49F8-9789-0A25A6C51D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07AD9978-F2DA-4464-A6BA-00BF7C89A46D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07AD9978-F2DA-4464-A6BA-00BF7C89A46D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07AD9978-F2DA-4464-A6BA-00BF7C89A46D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07AD9978-F2DA-4464-A6BA-00BF7C89A46D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5493543B-5738-4A4E-B4BE-9580256A662C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5493543B-5738-4A4E-B4BE-9580256A662C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5493543B-5738-4A4E-B4BE-9580256A662C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5493543B-5738-4A4E-B4BE-9580256A662C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {010F0540-6EA4-4E1F-8E11-04A7441FBB18}
+	EndGlobalSection
+EndGlobal
